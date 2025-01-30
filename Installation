@@ -1,0 +1,8 @@
+Clone the Repository
+
+git clone https://github.com/your-username/Sentiment-Analysis-ML.git
+cd Sentiment-Analysis-ML
+
+Install Required Packages
+
+pip install -r requirements.txt
