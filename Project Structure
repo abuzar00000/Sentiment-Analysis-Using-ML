@@ -1,0 +1,10 @@
+Sentiment-Analysis-ML/
+│── dataset/                    # Training dataset (CSV/Text files)
+│── models/                      # Trained ML models
+│── sentiment_analysis.py        # Main script
+│── preprocess.py                # Text preprocessing functions
+│── train_model.py               # Model training script
+│── test_model.py                # Model evaluation
+│── requirements.txt             # Dependencies
+│── README.md                    # Project documentation
+│── .gitignore                   # Ignore unnecessary files
