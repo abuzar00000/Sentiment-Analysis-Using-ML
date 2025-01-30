@@ -1,0 +1,1 @@
+python sentiment_analysis.py --text "I love this product!"
